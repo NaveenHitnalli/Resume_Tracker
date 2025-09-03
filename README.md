@@ -1,1 +1,2 @@
 # Resume_Tracker
+A Flask-based Resume Tracker that enables uploading and analyzing resumes in PDF format. It extracts text, emails, and key skills using PyPDF2, regex, and TextBlob, then stores structured data in a MySQL database. Candidates are ranked based on extracted skills, and results are displayed in a sorted dashboard. Designed to simplify candidate shortlisting, automate resume parsing, and provide insights for recruitment teams efficiently.
